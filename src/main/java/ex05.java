@@ -29,6 +29,10 @@ Challenges
     Implement this program as a GUI program that automatically updates the values when any value changes.
 
 */
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 public class ex05 {
     public static void main(String[] args){
         Scanner cursor = new Scanner(System.in);
